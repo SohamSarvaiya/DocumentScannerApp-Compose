@@ -1,5 +1,7 @@
 Document Scanner App
 
+![Bco (1)](https://github.com/user-attachments/assets/a232741b-5bdf-4580-ad04-9c7479506fc9)
+
 A Document Scanner App built using Jetpack Compose and Google ML Kit's Document Scanner API (com.google.android.gms:play-services-mlkit-document-scanner). This app provides a complete document scanning solution with features like auto-cropping, color filters, rotation, retake options, auto-capture, and support for various file formats (PDF, JPEG, PNG, etc.).
 
 
