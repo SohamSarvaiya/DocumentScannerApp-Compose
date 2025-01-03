@@ -42,17 +42,3 @@ Jetpack Compose 1.4.0 or newer
 
 Contributing
 
-
-Contributions are welcome! Please follow these steps:
-
-
-Fork the repository.
-
-
-Create a new branch for your feature or bug fix.
-
-
-Commit your changes with clear messages.
-
-
-Create a pull request.
